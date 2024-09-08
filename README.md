@@ -25,13 +25,10 @@ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Kanika Rawat
 
-### Version
+### Acknowledgments
 
-1.0.0
+This project was made with the help of Brad Traversy's tutorial.
 
-### License
 
-This project is licensed under the MIT License
